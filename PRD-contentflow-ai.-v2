@@ -1,0 +1,32 @@
+# PRD - contentflow-ai
+
+**Feasibility Score:** 7.5 / 10
+
+# Product Requirements Document: ContentFlow AI
+
+## 1. Executive Summary
+ContentFlow AI is an automated content repurposing engine designed for YouTube creators and podcast hosts. It transforms long-form video/audio into high-engagement short-form clips using AI-driven context analysis.
+
+## 2. Competitive Landscape
+- **Descript:** Strong in text-based editing; primary competitor for workflow automation.
+- **Canva:** Dominant in design; expanding into video, but lacks deep long-form to short-form intelligence.
+- **Adobe Premiere Pro:** The industry standard; adding AI features but remains complex for non-professional creators.
+
+## 3. Unit Economics
+- **ARPU:** $50/month
+- **CAC:** $150
+- **Gross Margin:** 70%
+- **LTV:** $700
+- **LTV:CAC Ratio:** 4.67
+- **Payback Period:** 4.3 months
+
+## 4. Functional Requirements
+- **Automated Clipping:** AI identifies high-engagement segments from long-form content.
+- **Smart Formatting:** Automatic aspect ratio adjustment (16:9 to 9:16) with face-tracking.
+- **Captioning & Styling:** AI-generated dynamic captions with brand-specific styling.
+- **Multi-Platform Export:** Direct integration with TikTok, YouTube Shorts, and Instagram Reels.
+
+## 5. Success Metrics
+- Monthly Recurring Revenue (MRR) growth.
+- Churn rate (target < 5%).
+- Average time saved per user per video.
