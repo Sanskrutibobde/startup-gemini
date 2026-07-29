@@ -1,0 +1,33 @@
+# PRD - interview-ai-pro
+
+**Feasibility Score:** 8.2 / 10
+
+# Product Requirements Document: InterviewAI
+
+## 1. Executive Summary
+InterviewAI is an AI-powered mock interview simulator that provides real-time, actionable feedback on video responses. It evaluates both technical content and soft skills (tone, pace, eye contact) to help job seekers improve their performance.
+
+## 2. Competitive Landscape
+- **InterviewWarmup (Google):** Free, accessible, but limited in advanced technical depth.
+- **Big Interview:** Established player with extensive educational content and structured practice.
+- **HireVue:** Enterprise-grade recruitment tool; high barrier to entry for individual users.
+
+## 3. Unit Economics
+- **Starting Users:** 1,000
+- **Monthly Growth:** 15%
+- **ARPU:** $25
+- **CAC:** $15
+- **Gross Margin:** 80%
+- **LTV:** $400
+- **LTV:CAC Ratio:** 26.67
+- **Payback Period:** 0.8 months
+
+## 4. Key Features
+- **Multimodal Analysis:** Real-time video/audio processing for soft skills.
+- **LLM-based Content Evaluation:** Deep analysis of technical answers against job descriptions.
+- **Personalized Coaching:** Tailored feedback reports and improvement plans.
+- **B2B Dashboard:** Analytics for career coaching institutes to track student progress.
+
+## 5. Feasibility
+- **Score:** 8.2/10
+- **Rationale:** High technical feasibility using off-the-shelf APIs. Market demand is strong, but differentiation is key. Focus on niche technical roles or partnerships with universities/coaching centers to scale efficiently.
