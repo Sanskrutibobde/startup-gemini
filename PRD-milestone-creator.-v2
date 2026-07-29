@@ -1,0 +1,37 @@
+# PRD - milestone-creator
+
+**Feasibility Score:** 8.2 / 10
+
+# Product Requirements Document: MilestoneCreator
+
+## 1. Executive Summary
+MilestoneCreator is a recognition platform for micro-creators (1k-50k subscribers). We provide physical milestone awards and a community growth dashboard to help creators celebrate their journey before they reach YouTube's official award tiers.
+
+## 2. Problem Statement
+Micro-creators often feel ignored by platforms. Official recognition (like YouTube Play Buttons) starts at 100k subscribers, leaving a massive gap for creators with 1k-50k subscribers who are working hard to build their communities.
+
+## 3. Goals
+- Provide tangible validation for micro-creators.
+- Build a community dashboard that tracks growth milestones.
+- Establish a profitable D2C brand in the creator economy.
+
+## 4. Features
+- **Milestone Awards:** Custom-engraved metal plaques for 1k/10k milestones.
+- **Growth Dashboard:** Integration with YouTube/Twitch APIs to track subscriber growth and provide analytics.
+- **Community Hub:** A digital space for creators to showcase their awards and share growth tips.
+
+## 5. Unit Economics
+- **ARPU:** $25
+- **CAC:** $15
+- **Gross Margin:** 60%
+- **LTV:** $300
+- **LTV:CAC Ratio:** 20:1
+- **Payback Period:** 1 month
+
+## 6. Competitive Landscape
+- **Spring:** Focuses on merch; lacks the 'award' prestige.
+- **Awardco:** Enterprise-focused; lacks creator-specific community features.
+- **Gumroad:** Generalist platform; lacks the physical manufacturing/fulfillment integration for awards.
+
+## 7. Feasibility Score: 8.2/10
+The model is highly viable with low overhead via POD. Success depends on branding and avoiding IP issues with YouTube's trademarks.
