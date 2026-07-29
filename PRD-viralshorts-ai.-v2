@@ -1,0 +1,32 @@
+# PRD - viralshorts-ai
+
+**Feasibility Score:** 7.5 / 10
+
+# Product Requirements Document: ViralShorts AI
+
+## 1. Executive Summary
+ViralShorts AI is an automated platform that transforms long-form YouTube content into high-performing short-form videos. It leverages AI to identify viral moments, apply dynamic captions, generate background music, and provide multi-language dubbing.
+
+## 2. Competitive Landscape
+- **Opus Clip:** Market leader in AI-driven repurposing.
+- **Munch:** Strong focus on trend analysis and social media optimization.
+- **Vizard.ai:** Comprehensive suite for professional-grade repurposing.
+
+## 3. Unit Economics (12-Month Projection)
+- **Starting Users:** 1,000
+- **Monthly Growth:** 15%
+- **ARPU:** $29
+- **CAC:** $15
+- **Gross Margin:** 70%
+- **LTV:** $406
+- **LTV:CAC Ratio:** 27.07
+- **Payback Period:** 0.7 months
+
+## 4. Key Features
+- **Smart Hook Detection:** AI identifies the most engaging segments of a video.
+- **Dynamic Captions:** Auto-generated, animated captions with customizable styles.
+- **AI Audio Suite:** Context-aware background music and multi-language voice cloning/dubbing.
+- **Multi-Platform Export:** Optimized aspect ratios for YouTube Shorts, TikTok, and Reels.
+
+## 5. Feasibility Score
+**7.5/10** - High market demand, but requires significant investment in AI infrastructure and differentiation against established players.
